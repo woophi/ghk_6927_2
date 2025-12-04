@@ -21,7 +21,7 @@ export const TICKER_TO_IMAGE: Record<string, string> = {
   MVID: mvideoImg,
   MGNT: magnitImg,
   LENT: lentaImg,
-  FIXP: fixImg,
+  FIXR: fixImg,
   X5: x5Img,
   SVET: svetImg,
   DELI: deliImg,
